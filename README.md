@@ -11,6 +11,10 @@
 - https://www.youtube.com/watch?v=tO8nWh38yTU
 - https://www.youtube.com/watch?v=dpWxWr90MGI
 - https://www.youtube.com/results?search_query=docker+proxy
+- https://iamsaleempasha.medium.com/nexus-as-docker-trusted-registry-to-pull-push-docker-images-6f74f599fd9
+- https://support.sonatype.com/hc/en-us/articles/115013153887-Docker-Repository-Configuration-and-Client-Connection
+Try to execute below Command to login into Docker Nexus Registry
+```$ docker login –u <nexususerid> –password ****** <nxs-ipaddr>:<port>```
 
 ## References
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-squid-proxy-on-ubuntu-20-04
