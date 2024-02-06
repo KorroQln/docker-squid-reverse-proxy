@@ -7,6 +7,10 @@
 - Disable access log(optional):
 ```access_log none```
 
+## Health Check
+- https://stackoverflow.com/questions/60038914/simple-healthcheck-endpoint-in-nginx-server-container
+- https://chat.openai.com/share/cc804d14-26c1-4491-b476-1a9f34ea86c5
+
 ## Nexus Registry
 - https://www.youtube.com/watch?v=tO8nWh38yTU
 - https://www.youtube.com/watch?v=dpWxWr90MGI
